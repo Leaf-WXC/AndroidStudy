@@ -1,4 +1,3 @@
 # AndroidStudy
 Learning for Android
-new a branch to test git cmds
-cherry-pick test
+new a branch personal/master_test9 to test git cmds
